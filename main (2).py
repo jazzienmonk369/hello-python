@@ -1,0 +1,1 @@
+print("Zdravo, Git svet!")
