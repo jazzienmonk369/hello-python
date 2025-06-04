@@ -1,4 +1,4 @@
-import pygame
+# Verzija 1.1 - Dodat komentar u koduimport pygame
 import random
 
 # Inicijalizacija
